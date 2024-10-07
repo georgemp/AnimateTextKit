@@ -1,0 +1,24 @@
+{
+  "originHash" : "7f870e05e544956266aa3835ffbfbce99097fe689861c130d7f794c32767a9c1",
+  "pins" : [
+    {
+      "identity" : "anima",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/flocked/Anima",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dd04ff5d0ac04917cba283b932d65a5c7ec54e94"
+      }
+    },
+    {
+      "identity" : "decomposed",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/b3ll/Decomposed.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "225ec7726a70ae586a5e0d65b450551d4f15b298"
+      }
+    }
+  ],
+  "version" : 3
+}
